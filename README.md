@@ -18,8 +18,8 @@ Instructions
 3. Create a `.env` file with the following variables:
    ```env
    PORT=5000
-   MONGO_URI=mongodb+srv://<username>:<password>@<cluster>.mongodb.net/task_manager?retryWrites=true&w=majority
-   JWT_SECRET=<your_jwt_secret>
+   MONGO_URI=mongodb+srv://moshe11:qazQAZ123@task-manager.s59hc.mongodb.net/task_manager
+   JWT_SECRET=Jh^3kpR$Zz9gM@p5f!9L // you can choose some thiong else
    ```
 
 4. Run the backend:
